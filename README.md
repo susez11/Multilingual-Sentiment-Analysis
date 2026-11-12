@@ -90,16 +90,7 @@ streamlit run app.py
 - Transformer performance varies across languages.
 - The project may not generalize to all real-world reviews.
 
-## 10. Individual Contributions
-
-| Member | Roll Number | Contribution |
-|---|---|---|
-| Sushobhan Mandal | 2304128 | Model implementation, Transformer integration and Streamlit development |
-| Rajarshi Kumar Paul | 2304108 | Dataset creation, preprocessing and Naive Bayes implementation |
-| Rishin Tarafder | 2304110 | Performance evaluation, confusion matrices, visualizations and documentation |
-
-## 11. Conclusion
+## 10. Conclusion
 The project demonstrates multilingual sentiment classification using traditional machine learning and pretrained Transformer models. Their performance is compared through quantitative evaluation and an interactive application.
 
-**Institution:** KIIT University  
-**Department:** Electronics and Telecommunication Engineering
+
