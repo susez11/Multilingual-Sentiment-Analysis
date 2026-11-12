@@ -43,6 +43,7 @@ The project compares a traditional Machine Learning model (TF-IDF + Naive Bayes)
 
 ## 6. Repository Structure
 
+```text
 Multilingual-Sentiment-Analysis/
 ├── app.py
 ├── requirements.txt
@@ -54,21 +55,28 @@ Multilingual-Sentiment-Analysis/
 ├── Demonstration.mp4
 ├── Report.pdf
 └── multiling.ipynb - Colab.pdf
+```
 
 ## 7. Installation and Execution
 
 Clone the repository:
 
+```bash
 git clone https://github.com/susez11/Multilingual-Sentiment-Analysis.git
 cd Multilingual-Sentiment-Analysis
+```
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the application:
 
+```bash
 streamlit run app.py
+```
 
 ## 8. Evaluation Metrics
 - Accuracy
@@ -82,6 +90,16 @@ streamlit run app.py
 - Transformer performance varies across languages.
 - The project may not generalize to all real-world reviews.
 
-## 10. Conclusion
+## 10. Individual Contributions
+
+| Member | Roll Number | Contribution |
+|---|---|---|
+| Sushobhan Mandal | 2304128 | Model implementation, Transformer integration and Streamlit development |
+| Rajarshi Kumar Paul | 2304108 | Dataset creation, preprocessing and Naive Bayes implementation |
+| Rishin Tarafder | 2304110 | Performance evaluation, confusion matrices, visualizations and documentation |
+
+## 11. Conclusion
 The project demonstrates multilingual sentiment classification using traditional machine learning and pretrained Transformer models. Their performance is compared through quantitative evaluation and an interactive application.
 
+**Institution:** KIIT University  
+**Department:** Electronics and Telecommunication Engineering
